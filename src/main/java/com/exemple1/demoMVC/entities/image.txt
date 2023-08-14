@@ -1,3 +1,5 @@
+
+LATEX
 \section{Notions d’images }
 \subsection{L’image } 
 La définition d'une image est une représentation exacte ou similaire d'une scène réelle. C'est aussi un ensemble structuré de données qui, une fois affichées, ont un sens pour l'œil humain.
